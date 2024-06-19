@@ -1,0 +1,33 @@
+{
+  "name": "wp5-starter-svelte",
+  "version": "1.0.0",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "cross-env": "7.0.3",
+    "css-loader": "6.8.1",
+    "flowbite": "^2.3.0",
+    "flowbite-svelte": "^0.46.1",
+    "html-webpack-plugin": "5.5.3",
+    "mini-css-extract-plugin": "2.7.6",
+    "postcss": "^8.4.38",
+    "postcss-loader": "^8.1.1",
+    "postcss-preset-env": "^9.5.13",
+    "serve": "14.2.1",
+    "style-loader": "3.3.3",
+    "svelte": "4.2.7",
+    "svelte-loader": "3.1.9",
+    "tailwindcss": "^3.4.3",
+    "webpack": "5.89.0",
+    "webpack-cli": "5.1.4",
+    "webpack-dev-server": "4.15.1"
+  },
+  "scripts": {
+    "build": "cross-env NODE_ENV=production webpack",
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "@grampro/svelte-block": "^0.0.33-2-beta",
+    "@grampro/svelte-mf-remote": "^0.0.1",
+    "flowbite-svelte-icons": "^1.6.1"
+  }
+}
