@@ -173,6 +173,10 @@ yarn start
 
 The Svelte app will be available at http://localhost:8080.
 
+## Credits
+
+Heavily Inspired By [Jack Herrington](https://github.com/jherr)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue first to discuss what you would like to change.
