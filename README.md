@@ -1,4 +1,4 @@
-# How to create Webpack Module Federation with Svelte and React.
+# How to create Micro Front Ends With React and Svelte Using Webpack Module Federation.
 
 This repository provides a minimal setup for a micro frontend architecture using React and Svelte, bundled with Webpack. The aim is to demonstrate how to integrate two different frameworks into a single application, leveraging Webpack's module federation to ensure a smooth and efficient build process.
 
