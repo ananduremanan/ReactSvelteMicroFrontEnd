@@ -19,7 +19,7 @@ This repository provides a minimal setup for a micro frontend architecture using
 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/react-svelte-micro-frontend.git
+git clone git@github.com:ananduremanan/ReactSvelteMicroFrontEnd.git
 cd react-svelte-micro-frontend
 ```
 
